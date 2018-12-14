@@ -498,8 +498,8 @@
     <distributionManagement>
 	<repository>
 		<id>deploymentRepo</id>
-		<name>http://35.196.135.120:8081/repository/maven-release/</name>
-		<url></url>
+		<name>Internal Releases</name>
+		<url>http://35.196.135.120:8081/repository/maven-release/</url>
 	</repository>
 	<snapshotRepository>
 		<id>deploymentRepo</id>
